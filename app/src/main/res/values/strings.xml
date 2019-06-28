@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploFirebase</string>
+    <string name="section">Sección:</string>
+    <string name="signature">Asignatura:</string>
+    <string name="tema">Escriba el tema de la clase</string>
+    <string name="register">Registrar</string>
+</resources>
